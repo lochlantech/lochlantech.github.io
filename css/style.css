@@ -1,0 +1,25 @@
+/***********************************************************
+ LochLAN Technologies "Lite" Website
+ Code authored by Jesse Hayward
+ Copyright 2024 by Jesse Hayward, c/o "LochLAN Technologies"
+************************************************************/
+
+/***************************
+ BEGIN GENERAL / NAVIGATION
+****************************/
+
+html, * {
+    background-color: #000;
+}
+
+li.nav-item > a, body > nav > div > div > div > a {
+    color: #fff;
+}
+
+#navbarSupportedContent > a > img {
+    width: 7em;
+}
+
+/***************************
+ END GENERAL / NAVIGATION
+****************************/
